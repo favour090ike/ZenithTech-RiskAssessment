@@ -13,4 +13,10 @@ To move the risk from **High** to **Low**, I implemented a triple-layer defense:
 2. **EDR (Detective):** Kills malicious "wiper" processes in real-time.
 3. **Cloud Backups (Recovery):** Ensures zero data loss even if a system is wiped.
 
+# HEAT MAP 
+How to read the heat map
+1. **The Red Dot:** This is the "Inherent Risk." It shows that without your plan, the risk is in the "Danger Zone" (High Impact/Moderate Likelihood).
+2. **The Arrow:** This represents your security strategy. It shows the risk being "pushed" down into the Green Zone.
+3. **The Green Dot:** This is the "Residual Risk"—where the risk sits after you’ve implemented MFA, EDR, and Backups.
+
 
